@@ -11,3 +11,4 @@ I learnt:
 - handling forms in HTML
 - styling sections of a page in CSS
 - linking to different sections of a page
+- registering domain name and hosting website online
