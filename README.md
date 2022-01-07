@@ -1,0 +1,13 @@
+# GTECH Services Inc. Website
+
+Copyright @2021 Kabir Bissessar
+
+I developed this one-page website in March of 2021 for GTECH Services Inc., a Guyana-based company.
+
+It was built using HTML and CSS.
+
+I learnt:
+
+- handling forms in HTML
+- styling sections of a page in CSS
+- linking to different sections of a page
