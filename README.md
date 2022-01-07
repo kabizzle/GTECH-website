@@ -1,6 +1,6 @@
 # GTECH Services Inc. Website
 
-Copyright @2021 Kabir Bissessar
+Copyright 2021, Kabir Bissessar, All rights reserved.
 
 I developed this one-page website in March of 2021 for GTECH Services Inc., a Guyana-based company.
 
