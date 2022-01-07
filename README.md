@@ -4,7 +4,7 @@ Copyright 2021, Kabir Bissessar, All rights reserved.
 
 I developed this one-page website in March of 2021 for GTECH Services Inc., a Guyana-based company.
 
-You can visit the website at [gtechservicesinc.com](gtechservicesinc.com)
+You can visit the website at [gtechservicesinc.com](http://www.gtechservicesinc.com)
 
 It was built using HTML and CSS.
 
