@@ -1,8 +1,8 @@
-# GTECH Services Inc. Website
+# GTECH Energy Inc. Website
 
-Copyright 2021, Kabir Bissessar, All rights reserved.
+Copyright 2022, GTECH Energy Inc. All rights reserved.
 
-I developed this one-page website in March of 2021 for GTECH Services Inc., a Guyana-based company.
+I developed this one-page website in March of 2021 for GTECH Energy Inc., a Guyana-based company.
 
 You can visit the website at [gtechservicesinc.com](http://www.gtechservicesinc.com)
 
