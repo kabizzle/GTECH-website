@@ -4,7 +4,7 @@ Copyright 2022, GTECH Energy Inc. All rights reserved.
 
 I developed this one-page website in March of 2021 for GTECH Energy Inc., a Guyana-based company.
 
-You can visit the website at [gtechservicesinc.com](http://www.gtechservicesinc.com)
+You can visit the website at [gtechenergyinc.com](http://www.gtechenergyinc.com)
 
 It was built using HTML and CSS.
 
