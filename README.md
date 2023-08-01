@@ -1,6 +1,6 @@
 # GTECH Energy Inc. Website
 
-Copyright 2022, GTECH Energy Inc. All rights reserved.
+Copyright 2023, GTECH Energy Inc. All rights reserved.
 
 I developed this one-page website in March of 2021 for GTECH Energy Inc., a Guyana-based company.
 
